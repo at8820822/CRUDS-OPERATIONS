@@ -1,0 +1,4 @@
+schma structure of data 
+schema -> model 
+
+using model perform crud operations 

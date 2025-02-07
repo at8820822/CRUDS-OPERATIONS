@@ -1,0 +1,56 @@
+Request method is POST and request method is POST /api/users 
+Request method is GET and request method is GET /api/users/1001 
+Request method is GET and request time is 1736963782819 /api/users/1001 
+Request method is POST and request time is 1736963795488 /api/users 
+Request method is GET and request time is 1737106914664 /api/users/1001 
+Request method is GET and request time is 1737106946320 /api/users/1001 
+Request method is GET and request time is 1737106967343 /api/users/1005 
+Request method is POST and request time is 1737107024408 /api/users 
+Request method is POST and request time is 1737107541582 /api/users 
+Request method is POST and request time is 1737107561041 /api/users 
+Request method is GET and request time is 1737107615202 /api/users/1005 
+Request method is POST and request time is 1737107620879 /api/users 
+Request method is POST and request time is 1737107742559 /api/users 
+Request method is POST and request time is 1737107748330 /api/users 
+Request method is POST and request time is 1737107754897 /api/users 
+Request method is GET and request time is 1737108244221 /api/users/1009 
+Request method is GET and request time is 1737108256798 /api/users/1099 
+Request method is GET and request time is 1737108263888 /api/users/109 
+Request method is GET and request time is 1737108269086 /api/users/1009 
+Request method is POST and request time is 1737717990236 /api/users 
+Request method is POST and request time is 1737718185853 /api/users 
+Request method is POST and request time is 1737718513400 /api/users 
+Request method is GET and request time is 1737718763105 / 
+Request method is GET and request time is 1737718763201 / 
+Request method is GET and request time is 1737718810388 /api/users 
+Request method is GET and request time is 1737718820185 /api/user 
+Request method is GET and request time is 1737718914421 /users 
+Request method is GET and request time is 1737718914768 /favicon.ico 
+Request method is GET and request time is 1737719199607 /api/users 
+Request method is GET and request time is 1737719210240 /api/users/id 
+Request method is GET and request time is 1737719339211 /users 
+Request method is GET and request time is 1737719540742 /api/users 
+Request method is GET and request time is 1737719614512 /api/users 
+Request method is GET and request time is 1737719630563 /api/users/679378e60a6b2ad2f1371b97 
+Request method is PATCH and request time is 1737720227916 /api/users/:id 
+Request method is PATCH and request time is 1737720309846 /api/users/679378e60a6b2ad2f1371b97 
+Request method is GET and request time is 1737720329052 /api/users/679378e60a6b2ad2f1371b97 
+Request method is DELETE and request time is 1737720515294 /api/users/679378e60a6b2ad2f1371b97 
+Request method is GET and request time is 1737720597351 /api/users/ 
+Request method is DELETE and request time is 1737720608823 /api/users/679378e60a6b2ad2f1371b97 
+Request method is GET and request time is 1737720619034 /api/users/ 
+Request method is DELETE and request time is 1737720694977 /api/users/679378e60a6b2ad2f1371b97 
+Request method is GET and request time is 1737720703106 /api/users/ 
+Request method is GET and request time is 1737720761110 /users 
+Request method is GET and request time is
+         1737738847141 /api/users/ 
+Request method is POST and request time is
+         1737738877245 /api/users 
+Request method is POST and request time is
+         1737738930625 /api/users 
+Request method is GET and request time is
+         1737738950345 /api/users/ 
+Request method is GET and request time is
+         1737738978789 /api/users/6793cab2f0210c57d6256868 
+Request method is GET and request time is
+         1738583502165 /api/users 
